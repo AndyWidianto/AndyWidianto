@@ -1,28 +1,21 @@
 
-<img src="/icons/Iam.svg" />
+<img src="/icons/Iam.svg" width="100%" />
 
 ## 🔧 Tech Stack
 ### 💻 Bahasa Pemrograman:
-<img src="/icons/js.svg" width="35" >
-<img src="/icons/php.svg" width="35" >
-<img src="/icons/dart.svg" width="35" >
+![JS](/icons/js.svg) ![PHP](/icons/php.svg) ![Dart](/icons/dart.svg)
 
 ### 🌐 Web Development:
-<img src="/icons/react.svg" width="35" >
-<img src="/icons/vue.svg" width="35" >
-<img src="/icons/ex.svg" width="35" >
-<img src="/icons/laravel.svg" width="35" >
+![React](./icons/react.svg) ![Vue](./icons/vue.svg) ![Ex](./icons/ex.svg) ![Laravel](./icons/laravel.svg)
 
 ### 📱 Mobile:
-<img src="/icons/flutter.svg" width="35" >
+![Flutter](/icons/flutter.svg)
 
 ### 🗄️ Database:
-<img src="/icons/mysql.svg" width="35" >
-<img src="/icons/psql.svg" width="35" >
+![MySQL](/icons/mysql.svg) ![PostgreSQL](/icons/psql.svg)
 
 ### ⚙️ Tools & Lainnya:
-<img src="/icons/git.svg" width="35" >
-<img src="/icons/github.svg" width="35" >
+![Git](/icons/git.svg) ![GitHub](/icons/github.svg)
 
 ## 📌 Proyek Unggulan
 <a href="https://github.com/AndyWidianto/kreasiku">Kreasiku</a>
