@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150">
+  <rect width="800" height="150" fill="#6F4E37" font-family="sans-serif" />
+  <text x="50%" y="50%" font-size="40" font-weight="bold" text-anchor="middle" fill="#F5F5DC">Hai 👋 I'm Andy Widianto</text>
+  <text x="50%" y="50%" font-size="16" dy="30" text-anchor="middle" fill="#F5F5DC">💻 Web &amp; Mobile Developer</text>
+</svg>
