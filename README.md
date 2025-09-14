@@ -3,26 +3,26 @@
 
 ## 🔧 Tech Stack
 ### 💻 Bahasa Pemrograman:
-<img src="/icons/js.svg" width="35"/>
-<img src="/icons/php.svg" width="35"/>
-<img src="/icons/dart.svg" width="35"/>
+<img src="/icons/js.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/php.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/dart.svg" width="35" style="vertical-align:middle;" />
 
 ### 🌐 Web Development:
-<img src="/icons/react.svg" width="35"/>
-<img src="/icons/vue.svg" width="35"/>
-<img src="/icons/ex.svg" width="35"/>
-<img src="/icons/laravel.svg" width="35"/>
+<img src="/icons/react.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/vue.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/ex.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/laravel.svg" width="35" style="vertical-align:middle;" />
 
 ### 📱 Mobile:
-<img src="/icons/flutter.svg" width="35"/>
+<img src="/icons/flutter.svg" width="35" style="vertical-align:middle;" />
 
 ### 🗄️ Database:
-<img src="/icons/mysql.svg" width="35"/>
-<img src="/icons/psql.svg" width="35"/>
+<img src="/icons/mysql.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/psql.svg" width="35" style="vertical-align:middle;" />
 
 ### ⚙️ Tools & Lainnya:
-<img src="/icons/git.svg" width="35"/>
-<img src="/icons/github.svg" width="35"/>
+<img src="/icons/git.svg" width="35" style="vertical-align:middle;" />
+<img src="/icons/github.svg" width="35" style="vertical-align:middle;" />
 
 ## 📌 Proyek Unggulan
 <a href="https://github.com/AndyWidianto/kreasiku">Kreasiku</a>
