@@ -17,15 +17,8 @@
 ### ⚙️ Tools & Lainnya:
 ![Git](/icons/git.svg) ![GitHub](/icons/github.svg)
 
-## 📌 Proyek Unggulan
-<a href="https://github.com/AndyWidianto/kreasiku">Kreasiku</a>
-Website sosial media dengan Vue, Express, dan socket.io
-
-<a href="https://github.com/AndyWidianto/calculator">Calculator</a>
-Aplikasi Kalkulator sederhana dengan Flutter
-
 ## 📊 Statistik GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyWidianto&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-theta-beryl-32.vercel.app/api/top-langs/?username=AndyWidianto&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AndyWidianto&theme=tokyo-night)
 
 ## 🔗 Kontak
