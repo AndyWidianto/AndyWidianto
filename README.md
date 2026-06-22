@@ -3,7 +3,7 @@
 
 ## 🔧 Tech Stack
 ### 💻 Bahasa Pemrograman:
-![JS](/icons/js.svg) ![PHP](/icons/php.svg) ![Dart](/icons/dart.svg)
+![JS](/icons/js.svg) ![PHP](/icons/typscript.svg) ![PHP](/icons/php.svg) ![Dart](/icons/dart.svg)
 
 ### 🌐 Web Development:
 ![React](./icons/react.svg) ![Vue](./icons/vue.svg) ![Ex](./icons/ex.svg) ![Laravel](./icons/laravel.svg) ![Nextjs](./icons/nextjs.svg) ![Nestjs](./icons/nestjs.svg)
