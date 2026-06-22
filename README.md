@@ -6,7 +6,7 @@
 ![JS](/icons/js.svg) ![PHP](/icons/php.svg) ![Dart](/icons/dart.svg)
 
 ### 🌐 Web Development:
-![React](./icons/react.svg) ![Vue](./icons/vue.svg) ![Ex](./icons/ex.svg) ![Laravel](./icons/laravel.svg)
+![React](./icons/react.svg) ![Vue](./icons/vue.svg) ![Ex](./icons/ex.svg) ![Laravel](./icons/laravel.svg) ![Nextjs](./icons/nextjs.svg) ![Nestjs](./icons/nestjs.svg)
 
 ### 📱 Mobile:
 ![Flutter](/icons/flutter.svg)
@@ -23,11 +23,11 @@
 
 ## 🔗 Kontak
 <a href="https://www.linkedin.com/in/andy-widianto-8a9067340/">
-    <img src="/icons/linkedin.png" alt="" style="width: 30px;">
+    <img src="/icons/linkedin.png" alt="" style="width: 70px;">
 </a>
 <a href="https://www.instagram.com/andywidiantoo/">
-    <img src="/icons/instagram.png" alt="" style="width: 30px;">
+    <img src="/icons/instagram.png" alt="" style="width: 70px;">
 </a>
 <a href="mailto:andywidianto56@gmail.com">
-    <img src="/icons/email.png" alt="" style="width: 30px;">
+    <img src="/icons/email.png" alt="" style="width: 70px;">
 </a>
